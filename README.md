@@ -1,6 +1,11 @@
 # JuryDAO
 JuryDAO is a decentralized autonomous organization (DAO) that aims to provide a decentralized dispute resolution system on the blockchain. It allows users to create and vote on cases, stake tokens as collateral, and engage in a transparent and decentralized decision-making process.
 ​
+## Pool Prize Eligibility
+- [Polygon zkEVM](https://testnet-zkevm.polygonscan.com/address/0xbc2819BbEcEB0A3175C7980655B5B835ADf9d44F)
+- [Shared tweet about Polygon zkEVM](https://twitter.com/webthreefuture/status/1647284399820648448)
+- 
+​
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)

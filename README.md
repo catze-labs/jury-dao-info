@@ -6,7 +6,7 @@ JuryDAO is a decentralized autonomous organization (DAO) that aims to provide a 
 ## Pool Prize Eligibility
 - [Goerli(Apecoin DAO, zkBOB)](https://goerli.etherscan.io/address/0x239C01d7C7354D2B59b4CEC0bAF262f9fE392Cd6)
 - [Mantle](https://explorer.testnet.mantle.xyz/address/0xBE085BfE3e321e537f35b1FE8f29341af01A734B)
-- [Polygon zkEVM](https://testnet-zkevm.polygonscan.com/address/0xbc2819BbEcEB0A3175C7980655B5B835ADf9d44F)
+- [Polygon zkEVM](https://testnet-zkevm.polygonscan.com/address/0x5c49C5a1B0c078641dd66D07ea30Ed1929EA8D56)
 - [Shared tweet about Polygon zkEVM](https://twitter.com/webthreefuture/status/1647284399820648448)
 - [Linea](https://explorer.goerli.linea.build/address/0x6E6560eaE99fC6506292D5a316cd6935398B34eF)
 - [Scroll](https://blockscout.scroll.io/address/0x7A4a62c159225611AFCcF829FD1F5E204f0D96fE)

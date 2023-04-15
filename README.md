@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/65929678/232244423-20b3e899-92b7-4b3e-8fbe-3c31ba2b5055.png)
+
 # JuryDAO
 JuryDAO is a decentralized autonomous organization (DAO) that aims to provide a decentralized dispute resolution system on the blockchain. It allows users to create and vote on cases, stake tokens as collateral, and engage in a transparent and decentralized decision-making process.
 ​

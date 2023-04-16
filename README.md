@@ -13,6 +13,11 @@ JuryDAO is a decentralized autonomous organization (DAO) that aims to provide a 
 - [Linea](https://explorer.goerli.linea.build/address/0x6E6560eaE99fC6506292D5a316cd6935398B34eF)
 - [Scroll](https://blockscout.scroll.io/address/0x7A4a62c159225611AFCcF829FD1F5E204f0D96fE)
 ​
+## All Repos
+- [Frontend](https://github.com/catze-labs/jury-dao-web)
+- [Backend](https://github.com/catze-labs/jury-dao-server)
+- [SmartContract](https://github.com/catze-labs/jury-dao-contract)
+​
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)

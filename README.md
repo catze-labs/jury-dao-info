@@ -3,7 +3,8 @@
 # JuryDAO
 JuryDAO is a decentralized autonomous organization (DAO) that aims to provide a decentralized dispute resolution system on the blockchain. It allows users to create and vote on cases, stake tokens as collateral, and engage in a transparent and decentralized decision-making process.
 ​
-[Smart Contract from Mantle Testnet Explorer](https://explorer.testnet.mantle.xyz/address/0xBE085BfE3e321e537f35b1FE8f29341af01A734B)
+## SmartContract
+- [Smart Contract from Mantle Testnet Explorer](https://explorer.testnet.mantle.xyz/address/0xBE085BfE3e321e537f35b1FE8f29341af01A734B)
 ​
 ## All Repos
 - [Frontend](https://github.com/catze-labs/jury-dao-web)

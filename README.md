@@ -3,15 +3,7 @@
 # JuryDAO
 JuryDAO is a decentralized autonomous organization (DAO) that aims to provide a decentralized dispute resolution system on the blockchain. It allows users to create and vote on cases, stake tokens as collateral, and engage in a transparent and decentralized decision-making process.
 ​
-## Pool Prize Eligibility
-- [Goerli](https://goerli.etherscan.io/address/0x8e0f38DF8e63a326fAa663961f475292b8f466e0)
-- [Apecoin DAO](https://github.com/catze-labs/jury-dao-contract/commit/e2d45b6d852691cfd96822269c6f42ab3eebeedc)
-- [zkBOB](https://github.com/catze-labs/jury-dao-contract/commit/e2d45b6d852691cfd96822269c6f42ab3eebeedc)
-- [Mantle](https://explorer.testnet.mantle.xyz/address/0xBE085BfE3e321e537f35b1FE8f29341af01A734B)
-- [Polygon zkEVM](https://testnet-zkevm.polygonscan.com/address/0x5c49C5a1B0c078641dd66D07ea30Ed1929EA8D56)
-- [Shared tweet about Polygon zkEVM](https://twitter.com/webthreefuture/status/1647284399820648448)
-- [Linea](https://explorer.goerli.linea.build/address/0x6E6560eaE99fC6506292D5a316cd6935398B34eF)
-- [Scroll](https://blockscout.scroll.io/address/0x7A4a62c159225611AFCcF829FD1F5E204f0D96fE)
+[Smart Contract from Mantle Testnet Explorer](https://explorer.testnet.mantle.xyz/address/0xBE085BfE3e321e537f35b1FE8f29341af01A734B)
 ​
 ## All Repos
 - [Frontend](https://github.com/catze-labs/jury-dao-web)
